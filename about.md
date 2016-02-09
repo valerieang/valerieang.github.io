@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 <h1>Born in 1987, New York, NY
