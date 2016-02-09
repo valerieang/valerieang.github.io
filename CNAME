@@ -1,4 +1,4 @@
-type:CNAME
-host:www.valerieang.com
-answer:valerieang.github.io
+CNAME
+www.valerieang.com
+valerieang.github.io
 TTL:300
